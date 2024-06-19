@@ -4,4 +4,5 @@ Perx Technologies introduces the world’s first intelligent, autonomous loyalty
 
 Perx Technologies simplifies customer acquisition, activation, monetization, and growth by designing customised, incentive-driven journeys, cultivating enduring loyalty and remarkable user experiences, and solidifying its position as an industry trailblazer.
 
-[Read More](https://www.perxtech.com/about/)
+- [Careers](https://www.perxtech.com/careers/)
+- [Get to know us](https://www.perxtech.com/about/) 
